@@ -15,6 +15,7 @@
 }
 
 :root {
+  --color-paragrafo: #f0f0f0;
   --bg-color: #09090B;
   --surface-color: #18181B;
   --stroke-color: #27272A;
